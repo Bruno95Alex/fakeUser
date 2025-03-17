@@ -1,0 +1,62 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 0%;
+  color: rgb(0, 0, 0);
+  border-style: outset;
+  
+}
+
+.formUser {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 0 5px black;
+}
+
+.allUsers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 0 50px black;
+  border-radius: 8px;
+  padding: 30px;
+  gap: 15px;
+  width: 200px;
+  height: 250px;
+}
+
+.user img {
+  border-radius: 50%;
+  box-shadow: 0 0 22px rgb(240, 255, 26);
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="radio"] {
+  accent-color: rgb(251, 255, 0); 
+}
+
+hr {
+  box-shadow: 5px 5px 5px rgb(251, 255, 0);
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
