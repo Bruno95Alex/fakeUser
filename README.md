@@ -4,7 +4,7 @@ O projeto consiste em usar uma API pública para a geração de usúarios fictí
 
 ## Design do projeto
 
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## API Utilizada
 
