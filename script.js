@@ -32,8 +32,10 @@ async function generateFakerUser(){
           <span><b>CPF:</b> ${user.id.value}</span>
           <span><b>Celular:</b> ${user.cell}</span>
           <span><b>Idade:</b> ${user.dob.age}</span>
+          <span><b>País:</b> ${user.location.country}</span>
           <span><b>Estado:</b> ${user.location.state}</span>
           <span><b>Cidade:</b> ${user.location.city}</span>
+          <span><b>Cod. Postal:</b> ${user.location.postcode}</span>
 
         </div>
         `;

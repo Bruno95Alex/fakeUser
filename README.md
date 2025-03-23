@@ -85,14 +85,13 @@ A API utilizada foi a https://randomuser.me/ que fornece informações de usúar
 - [x] Filtro de usuários pelo gênero
 - [x] Filtro de usuários pela nacionalidade
 - [x] Filtro de usuários pela quantidade
-- [ ] Mostrar mais informações dos usuários
-    - [ ] País
-    - [ ] Telefone
-    - [ ] Código postal
-    - [ ] Data de registro
-- [ ] Responsividade da tela
-- [ ] Aumentar o filtro da quantidade de usuários
-- [ ] Colocar mais opções de países
+- [x] Mostrar mais informações dos usuários
+    - [x] País
+    - [x] Telefone
+    - [x] Código postal
+- [x] Responsividade da tela
+- [x] Aumentar o filtro da quantidade de usuários
+- [x] Colocar mais opções de países
 
 ## Contatos
 
